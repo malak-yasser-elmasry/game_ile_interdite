@@ -109,11 +109,3 @@ project-pogl/
     └── Cle.java           # Système de clés
 ```
 
-
-##  Licence
-
-Projet universitaire - Adaptation de Forbidden Island
-
----
-
-**Dernière mise à jour** : 2026
